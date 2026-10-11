@@ -1,0 +1,26 @@
+Produto: Dell G15 5530.
+Fonte: dell-g15-5530-owners-manual-pt-br.pdf.
+
+DESLIGAMENTO FORÇADO
+Se o computador travar ou parar de responder, mantenha pressionado o botão liga/desliga por cerca de 10 segundos para forçar o desligamento do sistema.
+
+DRENAR ENERGIA RESIDUAL (REINICIALIZAÇÃO FORÇADA DE HARDWARE)
+Desligue o computador e desconecte o adaptador de energia.
+Remova a tampa da base e desconecte o cabo da bateria.
+Pressione e mantenha pressionado o botão liga/desliga por 20 segundos para drenar a energia estática residual da placa-mãe.
+Reconecte a bateria, instale a tampa e conecte a fonte.
+
+TESTE DE DIAGNÓSTICO SUPPORTASSIST
+Ligue o computador e pressione a tecla F2 repetidamente para acessar o BIOS ou F12 para o menu de inicialização rápida (Boot Menu).
+No menu F12, selecione a opção Diagnostics para executar a verificação completa de componentes físicos do equipamento (processador, memória e placa de vídeo).
+
+REDEFINIÇÃO DO RELÓGIO DE TEMPO REAL (RTC)
+Com o notebook desligado e conectado à tomada com o carregador original, mantenha o botão liga/desliga pressionado por 30 a 35 segundos.
+Solte o botão para redefinir as configurações de hardware do RTC.
+
+CUIDADOS COM SUPERAQUECIMENTO E DESLIGAMENTO TÉRMICO
+Não bloqueie as aberturas de ventilação nas laterais, na parte traseira ou na base do computador.
+O acúmulo de poeira nas aletas dos dissipadores e nas ventoinhas pode causar elevação de temperatura e corte preventivo de energia pelo processador para evitar danos térmicos.
+
+RECUPERAÇÃO DO SISTEMA
+Caso o Windows falhe na inicialização após sucessivas tentativas, o SupportAssist OS Recovery é iniciado automaticamente para permitir reparo, restauração de fábrica ou backup de arquivos.
