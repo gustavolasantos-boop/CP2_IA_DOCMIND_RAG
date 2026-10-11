@@ -21,7 +21,7 @@ O domínio é o mesmo do CKP01: suporte técnico de aparelhos eletrônicos. A ba
 
 | Documento | Produto | Categoria | Tipo | Fonte |
 |---|---|---|---|---|
-| `dell-g15-5530-owners-manual-pt-br.pdf` | Dell G15 5530 | notebook | manual | https://www.dell.com/support/product-details/pt-br/product/g-series-15-5530-laptop/resources/manuals |
+| `dell-g15-5530-owners-manual-pt-br.txt` | Dell G15 5530 | notebook | manual | https://www.dell.com/support/product-details/pt-br/product/g-series-15-5530-laptop/resources/manuals |
 | `intelbras-rf-301k-manual.pdf` | Intelbras RF 301K | roteador | manual | https://backend.intelbras.com/sites/default/files/2025-03/Manual_RF_301K_portugues_01-25_site.pdf |
 | `intelbras-wrn-240-manual.pdf` | Intelbras WRN 240 | roteador | manual | https://backend.intelbras.com/sites/default/files/integration/manual_wrn240_01-12_site.pdf |
 | `tp-link-archer-c60-guia-rapido.pdf` | TP-Link Archer C60 (BR) | roteador | guia rápido | https://static.tp-link.com/upload/manual/2022/202201/20220107/7106509419_Archer%20C60(BR)_QIG_V1.pdf |
