@@ -1,11 +1,11 @@
 [
   {
-    "arquivo": "dell-g15-5530-owners-manual-pt-br.pdf",
+    "arquivo": "dell-g15-5530-owners-manual-pt-br.txt",
     "produto": "Dell G15 5530",
     "marca": "Dell",
     "categoria": "notebook",
     "tipo": "manual",
-    "formato_original": "pdf",
+    "formato_original": "txt",
     "fonte_url": "https://www.dell.com/support/product-details/pt-br/product/g-series-15-5530-laptop/resources/manuals",
     "data_inclusao": "2026-10-10"
   },
