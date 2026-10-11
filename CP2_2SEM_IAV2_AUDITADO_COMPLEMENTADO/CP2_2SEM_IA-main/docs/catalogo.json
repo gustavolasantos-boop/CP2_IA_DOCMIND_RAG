@@ -1,0 +1,52 @@
+[
+  {
+    "arquivo": "dell-g15-5530-owners-manual-pt-br.pdf",
+    "produto": "Dell G15 5530",
+    "marca": "Dell",
+    "categoria": "notebook",
+    "tipo": "manual",
+    "formato_original": "pdf",
+    "fonte_url": "https://www.dell.com/support/product-details/pt-br/product/g-series-15-5530-laptop/resources/manuals",
+    "data_inclusao": "2026-10-10"
+  },
+  {
+    "arquivo": "intelbras-rf-301k-manual.pdf",
+    "produto": "Intelbras RF 301K",
+    "marca": "Intelbras",
+    "categoria": "roteador",
+    "tipo": "manual",
+    "formato_original": "pdf",
+    "fonte_url": "https://backend.intelbras.com/sites/default/files/2025-03/Manual_RF_301K_portugues_01-25_site.pdf",
+    "data_inclusao": "2026-10-10"
+  },
+  {
+    "arquivo": "intelbras-wrn-240-manual.pdf",
+    "produto": "Intelbras WRN 240",
+    "marca": "Intelbras",
+    "categoria": "roteador",
+    "tipo": "manual",
+    "formato_original": "pdf",
+    "fonte_url": "https://backend.intelbras.com/sites/default/files/integration/manual_wrn240_01-12_site.pdf",
+    "data_inclusao": "2026-10-10"
+  },
+  {
+    "arquivo": "tp-link-archer-c60-guia-rapido.pdf",
+    "produto": "TP-Link Archer C60 (BR)",
+    "marca": "TP-Link",
+    "categoria": "roteador",
+    "tipo": "guia_rapido",
+    "formato_original": "pdf",
+    "fonte_url": "https://static.tp-link.com/upload/manual/2022/202201/20220107/7106509419_Archer%20C60(BR)_QIG_V1.pdf",
+    "data_inclusao": "2026-10-10"
+  },
+  {
+    "arquivo": "philips-smart-tv-pfl-manual.pdf",
+    "produto": "Philips Smart TV (série PFL)",
+    "marca": "Philips",
+    "categoria": "tv",
+    "tipo": "manual",
+    "formato_original": "pdf",
+    "fonte_url": "https://www.documents.philips.com/assets/20230308/127083b0a2364557ab74afbf01014ce4.pdf",
+    "data_inclusao": "2026-10-10"
+  }
+]
